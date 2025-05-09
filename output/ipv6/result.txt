@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2025-05-09 06:42:02,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2025-05-09 18:41:38,https://cdn5.163189.xyz/live/cctv1/stream.m3u8$订阅源
 
 📺央视频道,#genre#
-CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8$订阅源
+CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344$订阅源
 CCTV-1,http://www.freetv.top/migu/608807420.m3u8?migutoken=491f039071b1e5ca7ea22dab208a3373abd0aa38187ac74446778154f03126d09cf16f03bab30bbbe6b3654715b39584417cebbd010b1b65144b4d683dc814c330efffb70a09c7630ddbb49120$订阅源
 CCTV-2,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000023315$订阅源
@@ -65,8 +65,8 @@ CCTV-17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e383
 广东卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873459.m3u8$订阅源
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8$订阅源-订阅源
 浙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010070$订阅源
-浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
 浙江卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873464.m3u8$订阅源
+浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&amp;d=d396e340de48108a9576134d5b090354&amp;k=60ede3db45d8640ab1db2b9f0dfa7549&amp;t=1671539989$订阅源-订阅源
 湖南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010058$订阅源
 湖南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873458.m3u8$订阅源
@@ -76,8 +76,8 @@ CCTV-17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e383
 湖北卫视,https://www.freetv.top/migu/738906825.m3u8?migutoken=959fce041a0fecbe0bdf2b300a4d13c986661650b877856aabade568eaf9f549143a65c212325030ca99ac119635c6c4daa7c93ba8863508e6aeef100965a31ae4a8152b02337aea453f42988d$订阅源
 湖北卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873465.m3u8$订阅源
 黑龙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010056$订阅源
-黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 黑龙江卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873470.m3u8$订阅源
+黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 安徽卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000030159$订阅源
 安徽卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873469.m3u8$订阅源
 重庆卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010053$订阅源
@@ -127,8 +127,8 @@ CCTV-17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e383
 青海卫视,https://www.freetv.top/migu/947472506.m3u8?migutoken=c740fc58e518a315b254873398c630ca506a9de327397b5e27a668d9c1e170b6512a1834dab3229ddc39b5a61c2ea42fae6d196a11c6d0e5e212522e6edf197f65ad9addf0b540aa6c9d4fcd3e$订阅源
 青海卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887430.m3u8$订阅源
 山东卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010066$订阅源
-山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山东卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873467.m3u8$订阅源
+山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010114$订阅源
 山西卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887413.m3u8$订阅源
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8$订阅源
@@ -150,12 +150,12 @@ CCTV-17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e383
 云南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887453.m3u8$订阅源
 
 ☘️广东频道,#genre#
-广东珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091$订阅源
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8$订阅源
+广东珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091$订阅源
 广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8$订阅源
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8$订阅源
-广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty$订阅源
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源
+广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty$订阅源
 广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8$订阅源
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$订阅源
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw$订阅源
@@ -173,25 +173,22 @@ CCTV-17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e383
 深圳卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873474.m3u8$订阅源
 
 🌊港·澳·台,#genre#
-翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8$订阅源
 翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8$订阅源-订阅源
+翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8$订阅源
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f$订阅源
-翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8$订阅源
-凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源-订阅源
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
+凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源-订阅源
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源-订阅源
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
 凤凰中文,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8$订阅源-订阅源
 凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000$订阅源
 凤凰中文,http://cdn.163.dedyn.io/live/fhzw/stream.m3u8$订阅源
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
-凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8$订阅源
+凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$订阅源-订阅源
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$订阅源
-凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$订阅源-订阅源
 凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000$订阅源
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8$订阅源
-凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8$订阅源
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8$订阅源
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源
@@ -200,10 +197,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2$订阅源-订阅源
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw$订阅源
-无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8$订阅源
-无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8$订阅源
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源-订阅源
-东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8$订阅源
 
 🎬电影频道,#genre#
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=893aa32f9d861d92c0661b8125e5b12471106642e4d0f341956e45e2f60dbb2179c3b5b6f05c2e8242e24d254815578255456ce991c2d337b226ce49c025efe16f2d4715157e642b7447f0bf06$订阅源
@@ -211,11 +205,11 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 淘剧场,http://dsj.motem.top:8880/bptv/10000100000000050000000003887497.m3u8$订阅源
 淘娱乐,http://dsj.motem.top:8880/bptv/10000100000000050000000003887499.m3u8$订阅源
 淘电影,http://dsj.motem.top:8880/bptv/10000100000000050000000003887498.m3u8$订阅源
+淘电影,http://yc.myds.me:35455/bptv/10000100000000050000000003887498.m3u8$订阅源
 NewTV惊悚悬疑,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010077$订阅源-订阅源
 NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010003$订阅源
 黑莓电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010073$订阅源
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe$订阅源-订阅源
-东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8$订阅源
 
 🏛经典剧场,#genre#
 天龙八部,http://www.clmy.cc:35455/yy/1355067965$订阅源-订阅源
