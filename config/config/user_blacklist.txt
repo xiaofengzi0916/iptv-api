@@ -1,1 +1,9 @@
-
+# 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
+# This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
+/audio/
+/itv.iptv1688.top/
+/rthktv33-live.akamaized.net/
+/www.freetv.top/
+/cdn.iptv8k.top/
+/playtv-live.ifeng.com/
+/txmov2.a.kwimgs.com/
