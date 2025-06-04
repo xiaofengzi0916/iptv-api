@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-04 06:12:19,http://qjrhc.jydjd.top:2911/udp/224.1.100.89:11111
+2025-06-04 18:13:45,http://qjrhc.jydjd.top:2911/udp/224.1.100.89:11111
 
 📺央视频道,#genre#
 CCTV-1,http://qjrhc.jydjd.top:2911/udp/224.1.100.89:11111
@@ -15,28 +15,30 @@ CCTV-6,http://119.32.12.17:2901/udp/224.1.100.84:11111
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 CCTV-7,http://qjrhc.jydjd.top:2911/udp/224.1.100.28:11111
-CCTV-8,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv8_1_hd.m3u8
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
+CCTV-8,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv8_1_hd.m3u8
+CCTV-9,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8
 CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 CCTV-11,http://qjrhc.jydjd.top:2911/udp/224.1.100.43:11111
 CCTV-12,http://qjrhc.jydjd.top:2911/udp/224.1.100.77:11111
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;amp;amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;amp;amp;wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;amp;amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;amp;amp;wsMonitor=0
-香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;amp;wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;amp;wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 浙江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.51:11111
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
 湖南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.97:11111
-湖北卫视,http://119.32.12.17:2901/udp/224.1.100.68:11111
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
+湖北卫视,http://119.32.12.17:2901/udp/224.1.100.68:11111
 东南卫视,http://119.32.12.17:2901/udp/224.1.100.56:11111
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 广西卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.111:11111
@@ -44,12 +46,11 @@ CCTV-12,http://qjrhc.jydjd.top:2911/udp/224.1.100.77:11111
 海南卫视,http://119.32.12.17:2901/udp/224.1.100.16:11111
 海南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.16:11111
 河北卫视,http://8.138.7.223/tv/hebtv.m3u8
-河北卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.20:11111
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://119.32.12.17:2901/udp/224.1.100.74:11111
 江西卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.53:11111
-宁夏卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.8:11111
 宁夏卫视,http://119.32.12.17:2901/udp/224.1.100.8:11111
+宁夏卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.8:11111
 四川卫视,http://119.32.12.17:2901/udp/224.1.100.72:11111
 西藏卫视,http://zqh2333.top:2222/rtp/239.93.24.175:5140
 新疆卫视,http://itv.iptv1688.top:2016/itv.php?id=新疆卫视
@@ -88,8 +89,6 @@ CCTV-12,http://qjrhc.jydjd.top:2911/udp/224.1.100.77:11111
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 🎬电影频道,#genre#
-CHC家庭影院,http://113.195.172.192:808/hls/113/index.m3u8
-CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
 经典电影,http://61.133.118.228:5001/yy/1356363815
 经典电影,http://fmbox.cc/公众号玉玉软件库/huya.php?id=11342427
 经典电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
