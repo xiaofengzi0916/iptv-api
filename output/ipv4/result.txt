@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-08 18:12:56,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ud.m3u8
+2025-06-09 06:11:11,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ud.m3u8
 
 📺央视频道,#genre#
 CCTV-2,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ud.m3u8
@@ -11,35 +11,33 @@ CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
 CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.81:11111
 CCTV-5+,http://qjrhc.jydjd.top:2911/udp/224.1.100.26:11111
 CCTV-6,http://119.32.12.17:2901/udp/224.1.100.84:11111
-CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
+CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
 CCTV-7,http://qjrhc.jydjd.top:2911/udp/224.1.100.28:11111
-CCTV-7,http://121.17.146.34:50003/hls/7/index.m3u8
-CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
 CCTV-8,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv8_1_hd.m3u8
-CCTV-8,http://121.17.146.34:50003/hls/8/index.m3u8
+CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
 CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 CCTV-11,http://qjrhc.jydjd.top:2911/udp/224.1.100.43:11111
 CCTV-12,http://qjrhc.jydjd.top:2911/udp/224.1.100.77:11111
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;amp;wsMonitor=0
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&wsMonitor=0
-香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;amp;amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;amp;amp;wsMonitor=0
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 浙江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.51:11111
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
 湖南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.97:11111
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 湖北卫视,http://119.32.12.17:2901/udp/224.1.100.68:11111
-东方卫视,http://112.46.85.60:8009/hls/31/index.m3u8
+东方卫视,http://1b6467f415.iok.la:9931/tsfile/live/1061_1.m3u8
 东南卫视,http://119.32.12.17:2901/udp/224.1.100.56:11111
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 海南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.16:11111
@@ -47,18 +45,14 @@ CCTV-12,http://qjrhc.jydjd.top:2911/udp/224.1.100.77:11111
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://119.32.12.17:2901/udp/224.1.100.74:11111
 内蒙古卫视,https://hyf000.eu.org/80947108/NMGWS
-宁夏卫视,http://119.32.12.17:2901/udp/224.1.100.8:11111
 宁夏卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.8:11111
+宁夏卫视,http://119.32.12.17:2901/udp/224.1.100.8:11111
 四川卫视,http://119.32.12.17:2901/udp/224.1.100.72:11111
-四川卫视,http://121.17.146.34:50003/hls/48/index.m3u8
-深圳卫视,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8
-云南卫视,http://121.17.146.34:50003/hls/55/index.m3u8
 
 ☘️广东频道,#genre#
 广东珠江,http://live.xmcdn.com/live/252/64.m3u8
 广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111
 大湾区卫视,http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv
-广州综合,http://119.32.12.17:2901/udp/224.1.100.36:11111
 江门侨乡生活,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=72626b&tk=822270345d4c
 汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0590&tk=a0c4f6cfaba3
 汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5771&tk=a0c4f6cfaba3
@@ -88,24 +82,19 @@ CCTV-12,http://qjrhc.jydjd.top:2911/udp/224.1.100.77:11111
 
 🎬电影频道,#genre#
 经典电影,http://61.133.118.228:5001/yy/1356363815
-经典电影,http://fmbox.cc/公众号玉玉软件库/huya.php?id=11342427
 经典电影,http://lxajh.top/tv/douyu.php?id=74374
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 星空卫视,http://119.32.12.17:2901/udp/224.1.100.13:11111
 
 🏛经典剧场,#genre#
 笑傲江湖,http://61.133.118.228:5001/yy/1355067965
-笑傲江湖,http://fmbox.cc/公众号玉玉软件库/huya.php?id=23865142
 天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4
 天龙八部,http://61.133.118.228:5001/yy/1351814644
-天龙八部,http://fmbox.cc/公众号玉玉软件库/huya.php?id=23903123
 天龙八部,https://vip1.lz-cdn1.com/20230217/20640_9eee7111/index.m3u8
-鹿鼎记,http://fmbox.cc/公众号玉玉软件库/huya.php?id=23865080
 鹿鼎记,http://43.138.0.72:35455/yy/1382736920
 水浒传,http://61.133.118.228:5001/yy/1353873252
 新白娘子传奇,http://61.133.118.228:5001/yy/1354490667
 封神榜,http://61.133.118.228:5001/yy/1353426319
-封神榜,http://fmbox.cc/公众号玉玉软件库/huya.php?id=23749096
 上海滩,http://61.133.118.228:5001/yy/1382745184
 上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
 上海滩,https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
