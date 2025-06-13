@@ -1,39 +1,39 @@
 🕘️更新时间,#genre#
-2025-06-13 06:12:35,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ud.m3u8
+2025-06-13 18:13:56,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ud.m3u8
 
 📺央视频道,#genre#
 CCTV-2,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ud.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://qjrhc.jydjd.top:2911/udp/224.1.100.103:11111
+CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
 CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.81:11111
-CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5+,http://qjrhc.jydjd.top:2911/udp/224.1.100.26:11111
 CCTV-6,http://119.32.12.17:2901/udp/224.1.100.84:11111
-CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
+CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
 CCTV-7,http://qjrhc.jydjd.top:2911/udp/224.1.100.28:11111
 CCTV-8,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv8_1_hd.m3u8
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
+香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;amp;amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;amp;amp;wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;amp;wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;amp;amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;amp;amp;wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&wsMonitor=0
-浙江卫视,http://112.46.85.60:8009/hls/34/index.m3u8
+香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.97:11111
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
+安徽卫视,http://223.241.247.214:9901/tsfile/live/0019_1.m3u8
 东南卫视,http://119.32.12.17:2901/udp/224.1.100.56:11111
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 海南卫视,http://119.32.12.17:2901/udp/224.1.100.16:11111
-海南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.16:11111
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://119.32.12.17:2901/udp/224.1.100.74:11111
 内蒙古卫视,https://hyf000.eu.org/80947108/NMGWS
@@ -51,7 +51,6 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 茂名公共,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7418&tk=a0c4f6cfaba3
 
 🌊港·澳·台,#genre#
-明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 凤凰资讯,http://218.202.220.2:5000/nn_live.ts?id=FHZX
 凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0
@@ -85,5 +84,5 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 新白娘子传奇,http://61.133.118.228:5001/yy/1354490667
 封神榜,http://61.133.118.228:5001/yy/1353426319
 上海滩,http://61.133.118.228:5001/yy/1382745184
-上海滩,https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
 上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
+上海滩,https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
