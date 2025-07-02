@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-02 06:11:15,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ud.m3u8
+2025-07-02 18:12:46,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ud.m3u8
 
 📺央视频道,#genre#
 CCTV-2,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ud.m3u8
@@ -13,12 +13,11 @@ CCTV-16,http://110.52.99.109:9901/tsfile/live/1015_1.m3u8
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 东南卫视,http://119.32.12.17:2901/udp/224.1.100.56:11111
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 海南卫视,http://119.32.12.17:2901/udp/224.1.100.16:11111
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-陕西卫视,http://gxlive.snrtv.com/sxws-SD.m3u8
 四川卫视,http://119.32.12.17:2901/udp/224.1.100.72:11111
 
 ☘️广东频道,#genre#
