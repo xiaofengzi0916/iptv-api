@@ -1,19 +1,29 @@
 🕘️更新时间,#genre#
-2025-08-15 18:13:12,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-08-16 06:13:06,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
+CCTV-5+,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv5p.flv
+CCTV-7,http://116.128.242.83:9901/tsfile/live/0008_1.m3u8
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
+CCTV-8,http://183.215.134.239:19901/tsfile/live/0008_1.m3u8
+CCTV-15,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv15.flv
+CCTV-16,http://sh.lnott.top:880/dx16.m3u8
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
+湖北卫视,http://116.128.242.83:9901/tsfile/live/0121_1.m3u8
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
-河北卫视,http://115.48.160.227:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+江西卫视,http://125.125.234.156:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+三沙卫视,http://36.105.100.208:35455/itv/5000000011000288016.m3u8
+云南卫视,http://125.125.234.156:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️广东频道,#genre#
+广东珠江,http://36.105.100.208:35455/itv/2000000003000000033.m3u8
+大湾区卫视,http://36.105.100.208:35455/itv/1000000002000011619.m3u8
 汕头文旅,http://tv.zzlag.top:9003/hls/5/index.m3u8
 
 🌊港·澳·台,#genre#
@@ -33,12 +43,14 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 🎬电影频道,#genre#
+黑莓电影,http://36.105.100.208:35455/itv/1000000004000019624.m3u8
 纬来电影,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
 
 🏛经典剧场,#genre#
 天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4
 天龙八部,https://vip1.lz-cdn1.com/20230217/20640_9eee7111/index.m3u8
-上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
 上海滩,https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
+上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
