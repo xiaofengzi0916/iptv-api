@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-08-17 06:11:04,http://221.205.129.173:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+2025-08-17 18:11:56,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
-CCTV-3,http://221.205.129.173:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
@@ -11,13 +10,13 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
-河北卫视,http://1.197.82.76:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 
 ☘️广东频道,#genre#
 汕头文旅,http://tv.zzlag.top:9003/hls/5/index.m3u8
 
 🌊港·澳·台,#genre#
+明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 凤凰资讯,http://218.202.220.2:5000/nn_live.ts?id=FHZX
 凤凰卫视,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
