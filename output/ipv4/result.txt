@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-19 18:12:07,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-08-20 06:11:58,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -11,6 +11,7 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+西藏卫视,http://36.105.100.208:35455/itv/6603041244077933770.m3u8?cdn=ystenlive
 
 ☘️广东频道,#genre#
 汕头文旅,http://tv.zzlag.top:9003/hls/5/index.m3u8
@@ -40,5 +41,5 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 🏛经典剧场,#genre#
 天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4
 天龙八部,https://vip1.lz-cdn1.com/20230217/20640_9eee7111/index.m3u8
-上海滩,https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
 上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
+上海滩,https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
