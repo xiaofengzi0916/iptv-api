@@ -1,18 +1,29 @@
 🕘️更新时间,#genre#
-2025-08-28 18:12:36,http://1.195.130.102:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+2025-08-29 06:10:44,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://1.195.130.102:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
-CCTV-11,http://125.42.151.241:9901/tsfile/live/1010_1.m3u8
 
 📡卫视频道,#genre#
+广东卫视,http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+黑龙江卫视,http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8
+安徽卫视,http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
+广西卫视,http://1.195.130.102:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://101.66.199.113:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8
+江苏卫视,http://36.105.100.208:35455/itv/1000000005000265030.m3u8
 江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
+四川卫视,http://1.195.130.102:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://101.66.199.198:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://125.125.236.51:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://101.66.195.204:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://101.66.199.204:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://101.66.199.198:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ☘️广东频道,#genre#
 汕头文旅,http://tv.zzlag.top:9003/hls/5/index.m3u8
@@ -41,5 +52,5 @@ CCTV-11,http://125.42.151.241:9901/tsfile/live/1010_1.m3u8
 🏛经典剧场,#genre#
 天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4
 天龙八部,https://vip1.lz-cdn1.com/20230217/20640_9eee7111/index.m3u8
-上海滩,https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
 上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
+上海滩,https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
