@@ -1,25 +1,21 @@
 🕘️更新时间,#genre#
-2025-08-28 06:11:40,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-08-28 18:12:36,http://1.195.130.102:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
+CCTV-2,http://1.195.130.102:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
-CCTV-11,http://183.223.157.33:9901/tsfile/live/0011_1.m3u8
+CCTV-11,http://125.42.151.241:9901/tsfile/live/1010_1.m3u8
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
-青海卫视,http://113.15.109.216:59901/tsfile/live/0140_1.m3u8
-青海卫视,http://36.105.100.208:35455/itv/5000000006000040015.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-tBRUZ8.m3u8
-陕西卫视,http://113.15.109.216:59901/tsfile/live/0136_1.m3u8
-天津卫视,http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8
 
 ☘️广东频道,#genre#
+汕头文旅,http://tv.zzlag.top:9003/hls/5/index.m3u8
 
 🌊港·澳·台,#genre#
 明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
