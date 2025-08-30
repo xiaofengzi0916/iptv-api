@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2025-08-30 06:10:12,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-08-30 18:10:34,http://110.181.237.202:9901/tsfile/live/0003_1.m3u8
 
 📺央视频道,#genre#
+CCTV-3,http://110.181.237.202:9901/tsfile/live/0003_1.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
@@ -32,7 +33,9 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 🎬电影频道,#genre#
+纬来电影,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
+龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
 
 🏛经典剧场,#genre#
 天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4
