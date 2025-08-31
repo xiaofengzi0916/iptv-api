@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-31 18:11:10,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-09-01 06:15:48,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -11,11 +11,14 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
+宁夏卫视,http://110.80.17.38:9999/tsfile/live/0016_1.m3u8
+山西卫视,http://110.80.17.38:9999/tsfile/live/0118_1.m3u8
 
 ☘️广东频道,#genre#
 汕头文旅,http://tv.zzlag.top:9003/hls/5/index.m3u8
 
 🌊港·澳·台,#genre#
+明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 凤凰资讯,http://218.202.220.2:5000/nn_live.ts?id=FHZX
 凤凰卫视,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
@@ -33,9 +36,10 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 🎬电影频道,#genre#
 纬来电影,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
+龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
 
 🏛经典剧场,#genre#
 天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4
 天龙八部,https://vip1.lz-cdn1.com/20230217/20640_9eee7111/index.m3u8
-上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
 上海滩,https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
+上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
