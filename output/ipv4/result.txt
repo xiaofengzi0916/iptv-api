@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-04 06:11:13,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-09-04 18:22:50,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -32,6 +32,8 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 🎬电影频道,#genre#
+纬来电影,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie
+龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
 
 🏛经典剧场,#genre#
 天龙八部,https://vip1.lz-cdn1.com/20230217/20640_9eee7111/index.m3u8
