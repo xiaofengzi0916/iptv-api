@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-07 18:51:14,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-09-08 06:11:22,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -8,19 +8,15 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+安徽卫视,http://111.227.196.164:9901/tsfile/live/0130_1.m3u8
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 
 ☘️广东频道,#genre#
-广东体育,http://117.141.162.238:8181/tsfile/live/1009_1.m3u8
-广东新闻,http://117.141.162.238:8181/tsfile/live/1005_1.m3u8
-广东民生,http://117.141.162.238:8181/tsfile/live/1006_1.m3u8
-大湾区卫视,http://117.141.162.238:8181/tsfile/live/1003_1.m3u8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=48f6c06c32931ed1c2376b21ce91640c&txTime=18d1f31b604
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e381ab098841a0badbf7e11f24143cf7&txTime=18e6ff43701
-广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=d295a772fb08e03b40f412ee48e70fb0&txTime=18d048582e3
 广州竞赛,https://tencentplaygsm.gztv.com/live/jingsai.m3u8?txTime=65815756&amp;txSecret=446c7cfc73f950b7253ea8c8d1a37a8a
+广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=d295a772fb08e03b40f412ee48e70fb0&txTime=18d048582e3
 
 🌊港·澳·台,#genre#
 明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
@@ -40,8 +36,8 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 
 🎬电影频道,#genre#
 纬来电影,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie
-靖天映画,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv055/index.m3u8?proxy=true
-靖天戏剧,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv058/index.m3u8?proxy=true
+靖天映画,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv055/index.m3u8
+靖天戏剧,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv058/index.m3u8
 龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
 
 🏛经典剧场,#genre#
