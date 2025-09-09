@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/xiaofengzi0916/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-09-09 18:13:13
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-09-10 06:09:09
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -16,7 +16,7 @@ http://1.94.31.214/php/hntv.php?id=hnws
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="☘️广东频道",广州综合
-https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&txSecret=7e4590b2320037d7ce49ce9eac2dd6c0
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e4115b603801e53725e7debad2d4f5da&txTime=18dcb681fec
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
 http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
@@ -47,11 +47,9 @@ rtmp://f13h.mine.nu/sat/tv331
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来电影.png" group-title="🎬电影频道",纬来电影
 https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie
-#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙祥电影.png" group-title="🎬电影频道",龙祥电影
-https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天龙八部.png" group-title="🏛经典剧场",天龙八部
 https://vip1.lz-cdn1.com/20230217/20640_9eee7111/index.m3u8
 #EXTINF:-1 tvg-name="上海滩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海滩.png" group-title="🏛经典剧场",上海滩
-https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="上海滩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海滩.png" group-title="🏛经典剧场",上海滩
 https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="上海滩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海滩.png" group-title="🏛经典剧场",上海滩
+https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
