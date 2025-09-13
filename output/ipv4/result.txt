@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-13 18:10:07,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-09-14 06:11:38,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -13,12 +13,10 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 
 ☘️广东频道,#genre#
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=8554699d06aed3f21425480824c75408&txTime=19095f3cb9c
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 
 🌊港·澳·台,#genre#
-明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
+明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 凤凰资讯,http://218.202.220.2:5000/nn_live.ts?id=FHZX
 凤凰卫视,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 纬来体育,rtmp://60.248.77.83/sat/tv721
@@ -33,8 +31,6 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 🎬电影频道,#genre#
-纬来电影,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie
-龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
 
 🏛经典剧场,#genre#
 上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
