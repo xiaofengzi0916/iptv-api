@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-17 06:11:38,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-09-17 18:12:24,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -683,7 +683,6 @@ CCTV-17,http://yc.myds.me:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-15.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.ctv
-凤凰资讯,http://218.202.220.2:5000/nn_live.ts?id=FHZX
 凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
@@ -693,6 +692,7 @@ CCTV-17,http://yc.myds.me:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-10.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-2.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
@@ -703,7 +703,6 @@ CCTV-17,http://yc.myds.me:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-9.ctv
-凤凰卫视,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
@@ -748,6 +747,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
 东森综合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 东森超视,rtmp://60.248.77.83/sat/tv331
 东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv
