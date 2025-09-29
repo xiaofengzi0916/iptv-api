@@ -1,21 +1,24 @@
 🕘️更新时间,#genre#
-2025-09-29 18:13:35,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-09-30 06:11:15,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
+CCTV-14,http://60.16.0.216:5757/hls/15/index.m3u8
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+湖南卫视,http://60.16.0.216:5757/hls/21/index.m3u8
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
+四川卫视,http://60.16.0.216:5757/hls/30/index.m3u8
+天津卫视,http://60.16.0.216:5757/hls/34/index.m3u8
 
 ☘️广东频道,#genre#
 
 🌊港·澳·台,#genre#
-明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 纬来体育,rtmp://60.248.77.83/sat/tv721
 纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
