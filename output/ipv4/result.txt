@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-02 06:12:04,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-10-02 18:11:42,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -10,11 +10,10 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://60.16.0.216:5757/hls/42/index.m3u8
 江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 
 ☘️广东频道,#genre#
-茂名综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9728&tk=a0c4f6cfaba3
+汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e8fcaf&tk=822270345d4c
 
 🌊港·澳·台,#genre#
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
@@ -30,7 +29,7 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 🎬电影频道,#genre#
-靖天映画,http://220.132.15.209:5008/li-4gtv-4gtv055/index.m3u8
+靖天映画,http://220.132.15.209:5008/4gtv-4gtv055/index.m3u8
 
 🏛经典剧场,#genre#
 上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
