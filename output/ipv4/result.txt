@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-31 18:12:15,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-11-01 06:10:27,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -7,7 +7,6 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-东南卫视,http://sh.lnott.top:880/dx47.m3u8
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 
