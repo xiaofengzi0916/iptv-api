@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-04 18:14:50,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-11-05 06:10:59,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -25,6 +25,8 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🎬电影频道,#genre#
+靖天映画,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv055/index.m3u8?proxy=true
+靖天映画,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv055/index.m3u8?proxy=true
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 
 🏛经典剧场,#genre#
