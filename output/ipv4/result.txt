@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-12 18:13:29,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-11-13 06:11:30,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -9,7 +9,6 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-天津卫视,http://sh.lnott.top:880/dx30.m3u8
 
 ☘️广东频道,#genre#
 
@@ -29,3 +28,5 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 
 🏛经典剧场,#genre#
+天龙八部,http://www.douzhicloud.site:35455/yy/1351814644
+鹿鼎记,http://www.douzhicloud.site:35455/yy/28265277
