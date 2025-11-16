@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-11-16 06:08:01,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-11-16 18:10:22,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
 
 📺央视频道,#genre#
-CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
 
 📡卫视频道,#genre#
