@@ -1,29 +1,16 @@
 🕘️更新时间,#genre#
-2025-11-27 18:13:41,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8
+2025-11-28 06:10:42,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
 
 📺央视频道,#genre#
-CCTV-3,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
-CCTV-16,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226888/1.m3u8
+CCTV-11,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226914/1.m3u8
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-重庆卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226569/1.m3u8
-甘肃卫视,http://60.13.52.236:65500/newlive/live/hls/17/live.m3u8
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
+广西卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226915/1.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-江西卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
-辽宁卫视,http://60.13.52.236:65500/newlive/live/hls/29/live.m3u8
-宁夏卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-山东卫视,http://60.13.52.236:65500/newlive/live/hls/27/live.m3u8
-山西卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226920/1.m3u8
-陕西卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8
-四川卫视,http://60.13.52.236:65500/newlive/live/hls/36/live.m3u8
-三沙卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8
-西藏卫视,http://60.13.52.236:65500/newlive/live/hls/45/live.m3u8
-西藏卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8
-新疆卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226923/1.m3u8
-云南卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226928/1.m3u8
+内蒙古卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226919/1.m3u8
 
 ☘️广东频道,#genre#
 
@@ -40,6 +27,8 @@ CCTV-16,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🎬电影频道,#genre#
+CHC家庭影院,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
+CHC动作电影,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
 
 🏛经典剧场,#genre#
 天龙八部,http://www.douzhicloud.site:35455/yy/1351814644
