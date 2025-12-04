@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2025-12-04 06:12:40,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/.m3u8
+2025-12-04 18:14:29,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226906/.m3u8
 
 📺央视频道,#genre#
-CCTV-7,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/.m3u8
 CCTV-7,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226906/.m3u8
+CCTV-7,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/.m3u8
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
 CCTV-9,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/.m3u8
 CCTV-10,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8
@@ -21,15 +21,14 @@ CCTV-15,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 广西卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226534/.m3u8
 贵州卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/.m3u8
-河南卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226525/.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226525/.m3u8
 四川卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226924/.m3u8
 
 ☘️广东频道,#genre#
 
 🌊港·澳·台,#genre#
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
-明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 纬来体育,rtmp://60.248.77.83/sat/tv721
 纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
