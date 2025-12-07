@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-07 06:10:20,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
+2025-12-07 18:11:00,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
 
 📺央视频道,#genre#
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
@@ -24,12 +24,6 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🎬电影频道,#genre#
-靖天映画,http://210.61.15.55:50007/4gtv-4gtv055/index.m3u8?proxy=true
-靖天映画,http://vv.hotinosin.eu.org:10361/4gtv-4gtv055/index.m3u8?proxy=true
-靖天映画,http://vv.hotinosin.eu.org:10361/li-4gtv-4gtv055/index.m3u8?proxy=true
-靖天戏剧,http://210.61.15.55:50007/4gtv-4gtv058/index.m3u8?proxy=true
-靖天戏剧,http://vv.hotinosin.eu.org:10361/4gtv-4gtv058/index.m3u8?proxy=true
-靖天戏剧,http://vv.hotinosin.eu.org:10361/li-4gtv-4gtv058/index.m3u8?proxy=true
 
 🏛经典剧场,#genre#
 天龙八部,http://www.douzhicloud.site:35455/yy/1351814644
