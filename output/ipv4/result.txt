@@ -1,11 +1,23 @@
 🕘️更新时间,#genre#
-2025-12-09 18:14:05,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
+2025-12-10 06:12:06,http://play.kankanlive.com/live/1698234869325962.m3u8
 
 📺央视频道,#genre#
+CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
+CCTV-2,https://play.kankanlive.com/live/1698234898628961.m3u8
+CCTV-4,https://play.kankanlive.com/live/1698234936258960.m3u8
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
+CCTV-9,https://play.kankanlive.com/live/1698423397390920.m3u8
+CCTV-10,https://play.kankanlive.com/live/1698423445959919.m3u8
+CCTV-11,https://play.kankanlive.com/live/1698423476198918.m3u8
+CCTV-12,https://play.kankanlive.com/live/1698423511884917.m3u8
+CCTV-13,https://play.kankanlive.com/live/1698423543275916.m3u8
+CCTV-14,https://play.kankanlive.com/live/1698423575756915.m3u8
+CCTV-15,https://play.kankanlive.com/live/1698423607826914.m3u8
+CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 
@@ -24,6 +36,7 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🎬电影频道,#genre#
+天映经典,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=4921
 
 🏛经典剧场,#genre#
 天龙八部,http://www.douzhicloud.site:35455/yy/1351814644
