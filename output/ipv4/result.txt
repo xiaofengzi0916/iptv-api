@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-10 18:14:28,http://play.kankanlive.com/live/1698234869325962.m3u8
+2025-12-11 06:12:42,http://play.kankanlive.com/live/1698234869325962.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
