@@ -1,42 +1,14 @@
 🕘️更新时间,#genre#
-2025-12-23 06:12:47,http://120.211.62.180:8000/hls/1/index.m3u8
+2025-12-23 18:13:44,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
 
 📺央视频道,#genre#
-CCTV-1,http://120.211.62.180:8000/hls/1/index.m3u8
-CCTV-2,http://120.211.62.180:8000/hls/2/index.m3u8
-CCTV-4,http://120.211.62.180:8000/hls/4/index.m3u8
-CCTV-5+,http://120.211.62.180:8000/hls/18/index.m3u8
-CCTV-7,http://120.211.62.180:8000/hls/7/index.m3u8
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
-CCTV-9,http://120.211.62.180:8000/hls/9/index.m3u8
-CCTV-10,http://120.211.62.180:8000/hls/10/index.m3u8
-CCTV-11,http://120.211.62.180:8000/hls/11/index.m3u8
-CCTV-12,http://120.211.62.180:8000/hls/12/index.m3u8
-CCTV-13,http://120.211.62.180:8000/hls/13/index.m3u8
 CCTV-14,https://play.kankanlive.com/live/1698423575756915.m3u8
-CCTV-14,http://120.211.62.180:8000/hls/14/index.m3u8
-CCTV-15,http://120.211.62.180:8000/hls/15/index.m3u8
-CCTV-17,http://120.211.62.180:8000/hls/17/index.m3u8
-CCTV-17,http://hmfs.f3322.net:3388/hls/37/index.m3u8
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-湖南卫视,http://120.211.62.180:8000/hls/30/index.m3u8
-北京卫视,http://120.211.62.180:8000/hls/35/index.m3u8
-安徽卫视,http://120.211.62.180:8000/hls/33/index.m3u8
-东方卫视,http://hmfs.f3322.net:3388/hls/24/index.m3u8
-东南卫视,http://hmfs.f3322.net:3388/hls/26/index.m3u8
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
-广西卫视,http://hmfs.f3322.net:3388/hls/27/index.m3u8
-河北卫视,http://120.211.62.180:8000/hls/19/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://120.211.62.180:8000/hls/40/index.m3u8
-江苏卫视,http://120.211.62.180:8000/hls/32/index.m3u8
-辽宁卫视,http://120.211.62.180:8000/hls/37/index.m3u8
-山东卫视,http://120.211.62.180:8000/hls/38/index.m3u8
-深圳卫视,http://hmfs.f3322.net:3388/hls/25/index.m3u8
-天津卫视,http://120.211.62.180:8000/hls/36/index.m3u8
-云南卫视,http://120.211.62.180:8000/hls/39/index.m3u8
 
 ☘️广东频道,#genre#
 
