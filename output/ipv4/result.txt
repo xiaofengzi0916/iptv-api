@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-27 06:12:01,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
+2025-12-27 18:11:43,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
 
 📺央视频道,#genre#
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
@@ -25,8 +25,6 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 
 🎬电影频道,#genre#
 CHC动作电影,http://129.150.54.232:10001/yy/1382736809
-靖天映画,http://220.135.64.124:5050/4gtv-4gtv055/index.m3u8?proxy=true
-靖天戏剧,http://220.135.64.124:5050/4gtv-4gtv058/index.m3u8?proxy=true
 天映经典,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=4921
 
 🏛经典剧场,#genre#
