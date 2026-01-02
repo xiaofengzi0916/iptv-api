@@ -1,26 +1,13 @@
 🕘️更新时间,#genre#
-2026-01-02 06:11:51,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
+2026-01-02 18:12:35,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
 
 📺央视频道,#genre#
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
-CCTV-10,http://27.41.245.32:801/hls/10/index.m3u8
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-湖南卫视,http://39.152.103.17:8089/tsfile/live/1040_1.m3u8
-湖北卫视,http://222.214.208.34:59901/tsfile/live/0132_1.m3u8
-重庆卫视,http://btjg.net:809/hls/54/index.m3u8
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
-贵州卫视,http://39.152.103.17:8089/tsfile/live/1041_1.m3u8
-河北卫视,http://39.152.103.17:8089/tsfile/live/1079_1.m3u8
-河北卫视,http://btjg.net:809/hls/45/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://btjg.net:809/hls/55/index.m3u8
-江苏卫视,http://39.152.103.17:8089/tsfile/live/1038_1.m3u8
-江西卫视,http://39.152.103.17:8089/tsfile/live/1078_1.m3u8
-江西卫视,http://222.214.208.34:59901/tsfile/live/0138_1.m3u8
-辽宁卫视,http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
-深圳卫视,http://39.152.103.17:8089/tsfile/live/1049_1.m3u8
 
 ☘️广东频道,#genre#
 
@@ -37,8 +24,8 @@ CCTV-10,http://27.41.245.32:801/hls/10/index.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🎬电影频道,#genre#
-CHC动作电影,http://129.150.54.232:10001/yy/1382736823
 CHC动作电影,http://129.150.54.232:10001/yy/1382736809
+CHC动作电影,http://129.150.54.232:10001/yy/1382736823
 纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
 天映经典,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=4921
 
