@@ -1,13 +1,16 @@
 🕘️更新时间,#genre#
-2026-01-03 18:11:18,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
+2026-01-04 06:10:32,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8
 
 📺央视频道,#genre#
+CCTV-6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+山西卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://222.214.208.34:59901/tsfile/live/0126_1.m3u8
 
 ☘️广东频道,#genre#
 
