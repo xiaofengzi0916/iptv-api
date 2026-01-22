@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-22 06:15:38,http://23.237.228.134/live5/CCTV1.m3u8
+2026-01-22 18:17:34,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
@@ -27,12 +27,12 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 安徽卫视,http://23.237.228.134/live8/anhui.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
-东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 东方卫视,http://69.30.246.194/live/dfws.m3u8
+东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 东南卫视,http://23.237.228.134/live8/gansu.m3u8
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
-广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 河北卫视,http://23.237.228.134/live8/hebei.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
@@ -41,10 +41,10 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 辽宁卫视,http://23.237.228.134/live8/liaoning.m3u8
 内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8
 青海卫视,http://23.237.228.134/live8/qinghai.m3u8
-山西卫视,http://23.237.228.134/live8/shanxi.m3u8
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
+山西卫视,http://23.237.228.134/live8/shanxi.m3u8
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 天津卫视,http://23.237.228.134/live8/tianjing.m3u8
@@ -71,12 +71,9 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 纬来电影,http://43.251.226.89:8080/play/744.m3u8
-纬来电影,http://43.251.226.89:8080/play/679.m3u8
-靖天映画,http://43.251.226.89:8080/play/841.m3u8
-靖天戏剧,http://43.251.226.89:8080/play/839.m3u8
-天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 天映经典,http://74.91.26.218:82/live/tyjd.m3u8
 天映经典,http://43.251.226.89:8080/play/677.m3u8
+天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 龙祥电影,http://43.251.226.89:8080/play/678.m3u8
 东森洋片,http://43.251.226.89:8080/play/735.m3u8
 
