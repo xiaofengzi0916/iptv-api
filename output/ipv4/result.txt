@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-04 18:29:11,http://23.237.228.134/live5/CCTV2.m3u8
+2026-02-05 06:15:35,http://23.237.228.134/live5/CCTV2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
@@ -11,13 +11,12 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-北京卫视,http://23.237.228.134/live3/beijing.m3u8
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
-东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 东方卫视,http://69.30.246.194/live/dfws.m3u8
+东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 广西卫视,http://23.237.228.134/live6/guizhou.m3u8
