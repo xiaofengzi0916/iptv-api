@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-14 06:22:14,http://23.237.228.134/live5/CCTV2.m3u8
+2026-02-14 18:15:40,http://23.237.228.134/live5/CCTV2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
@@ -11,8 +11,8 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
@@ -22,7 +22,6 @@ CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?B
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
-青海卫视,http://36.136.38.87:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
