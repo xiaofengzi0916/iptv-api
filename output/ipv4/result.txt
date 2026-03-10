@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-03-10 18:28:33,http://74.91.26.218:82/live/cctv9hd.m3u8
+2026-03-11 06:16:20,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 
 📺央视频道,#genre#
-CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
@@ -13,7 +12,6 @@ CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 
 ☘️广东频道,#genre#
-汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0590&tk=a0c4f6cfaba3
 
 🌊港·澳·台,#genre#
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
