@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-12 18:28:44,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+2026-03-13 06:15:06,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 
 📺央视频道,#genre#
 
@@ -12,6 +12,7 @@
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 
 ☘️广东频道,#genre#
+茂名综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9728&tk=a0c4f6cfaba3
 
 🌊港·澳·台,#genre#
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
