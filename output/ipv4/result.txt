@@ -1,18 +1,16 @@
 🕘️更新时间,#genre#
-2026-03-13 06:15:06,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+2026-03-13 18:24:52,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 
 ☘️广东频道,#genre#
-茂名综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9728&tk=a0c4f6cfaba3
 
 🌊港·澳·台,#genre#
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
@@ -27,5 +25,6 @@
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🎬电影频道,#genre#
+龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
 
 🏛经典剧场,#genre#
