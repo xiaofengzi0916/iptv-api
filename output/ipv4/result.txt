@@ -1,19 +1,38 @@
 🕘️更新时间,#genre#
-2026-06-09 07:06:49,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2026-06-09 20:33:08,http://101.66.195.125:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视频道,#genre#
+CCTV-1,http://101.66.195.125:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+CCTV-2,http://101.66.195.125:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-3,http://101.66.195.125:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-5,http://101.66.195.125:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-6,http://101.66.195.125:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-8,http://101.66.195.125:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-9,http://101.66.195.125:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-10,http://101.66.195.125:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-11,http://101.66.195.125:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-12,http://101.66.195.125:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV-15,http://101.66.195.125:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+北京卫视,http://101.66.195.125:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://101.66.195.125:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
+广西卫视,http://101.66.195.125:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://101.66.195.125:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+江西卫视,http://115.48.161.50:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://101.66.195.125:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://101.66.195.125:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://101.66.195.125:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ☘️广东频道,#genre#
 广东珠江,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&line=1
