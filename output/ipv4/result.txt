@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-19 21:26:43,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2026-06-20 06:42:33,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 📺央视频道,#genre#
 CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
@@ -32,6 +32,5 @@ CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🎬电影频道,#genre#
-龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
 
 🏛经典剧场,#genre#
