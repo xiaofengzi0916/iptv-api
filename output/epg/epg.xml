@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261007010611 +0800">
+<tv date="20261007170450 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -11634,28 +11634,25 @@
 	<programme channel="海南卫视" start="20261006232000 +0800" stop="20261007001500 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20261007001500 +0800" stop="20261007023500 +0800">
+	<programme channel="海南卫视" start="20261007001800 +0800" stop="20261007023800 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20261007001500 +0800" stop="20261007023500 +0800">
-		<title lang="zh">凌晨剧场</title>
-	</programme>
-	<programme channel="海南卫视" start="20261007023500 +0800" stop="20261007030000 +0800">
+	<programme channel="海南卫视" start="20261007023800 +0800" stop="20261007030300 +0800">
 		<title lang="zh">潮起海之南</title>
 	</programme>
-	<programme channel="海南卫视" start="20261007030000 +0800" stop="20261007035000 +0800">
+	<programme channel="海南卫视" start="20261007030300 +0800" stop="20261007035200 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20261007035000 +0800" stop="20261007042000 +0800">
+	<programme channel="海南卫视" start="20261007035200 +0800" stop="20261007042000 +0800">
 		<title lang="zh">视界</title>
 	</programme>
-	<programme channel="海南卫视" start="20261007042000 +0800" stop="20261007045600 +0800">
+	<programme channel="海南卫视" start="20261007042000 +0800" stop="20261007045900 +0800">
 		<title lang="zh">动漫剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20261007045600 +0800" stop="20261007062500 +0800">
+	<programme channel="海南卫视" start="20261007045900 +0800" stop="20261007062800 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20261007062500 +0800" stop="20261007070000 +0800">
+	<programme channel="海南卫视" start="20261007062800 +0800" stop="20261007070000 +0800">
 		<title lang="zh">潮起海之南</title>
 	</programme>
 	<programme channel="海南卫视" start="20261007070000 +0800" stop="20261007070100 +0800">
@@ -11663,6 +11660,9 @@
 	</programme>
 	<programme channel="海南卫视" start="20261007070100 +0800" stop="20261007074300 +0800">
 		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20261007074300 +0800" stop="20261007180800 +0800">
+		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20261007074300 +0800" stop="20261007180800 +0800">
 		<title lang="zh">阳光剧场</title>
@@ -11700,9 +11700,6 @@
 	<programme channel="海南卫视" start="20261008001500 +0800" stop="20261008023500 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20261008001500 +0800" stop="20261008023500 +0800">
-		<title lang="zh">凌晨剧场</title>
-	</programme>
 	<programme channel="海南卫视" start="20261008023500 +0800" stop="20261008030000 +0800">
 		<title lang="zh">潮起海之南</title>
 	</programme>
@@ -11726,6 +11723,9 @@
 	</programme>
 	<programme channel="海南卫视" start="20261008070100 +0800" stop="20261008074300 +0800">
 		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20261008074300 +0800" stop="20261008180800 +0800">
+		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20261008074300 +0800" stop="20261008180800 +0800">
 		<title lang="zh">阳光剧场</title>
